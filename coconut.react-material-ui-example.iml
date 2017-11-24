@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="HAXE_MODULE" version="4">
+  <component name="HaxeModuleSettingsStorage">
+    <option name="buildConfig" value="1"/>
+    <option name="haxeTarget" value="JavaScript"/>
+    <option name="hxmlPath" value="$MODULE_DIR$/build.hxml"/>
+    <option name="outputFolder" value="$MODULE_DIR$/out/production/coconut.react-material-ui-example"/>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output/>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false"/>
+    </content>
+    <orderEntry type="inheritedJdk"/>
+    <orderEntry type="sourceFolder" forTests="false"/>
+      <orderEntry name="lix:coconut.react" type="library" level="project"/>
+    <orderEntry name="lix:coconut.ui" type="library" level="project"/>
+    <orderEntry name="lix:tink_hxx" type="library" level="project"/>
+    <orderEntry name="lix:tink_parse" type="library" level="project"/>
+    <orderEntry name="lix:tink_core" type="library" level="project"/>
+    <orderEntry name="lix:tink_macro" type="library" level="project"/>
+    <orderEntry name="lix:coconut.data" type="library" level="project"/>
+    <orderEntry name="lix:tink_state" type="library" level="project"/>
+    <orderEntry name="lix:tink_lang" type="library" level="project"/>
+    <orderEntry name="lix:tink_syntaxhub" type="library" level="project"/>
+    <orderEntry name="lix:tink_priority" type="library" level="project"/>
+    <orderEntry name="lix:tink_pure" type="library" level="project"/>
+</component>
+</module>

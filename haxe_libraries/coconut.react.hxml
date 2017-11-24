@@ -1,0 +1,5 @@
+# @install: lix --silent download "https://github.com/MVCoconut/coconut.react/archive/c5ab38a769a7b4d687a70935db2398cad9b8b339.tar.gz" into coconut.react/0.0.0/github/c5ab38a769a7b4d687a70935db2398cad9b8b339
+-D coconut.react=0.0.0
+-cp ${HAXESHIM_LIBCACHE}/coconut.react/0.0.0/github/c5ab38a769a7b4d687a70935db2398cad9b8b339/src
+--macro coconut.react.macros.Setup.all()
+-lib coconut.ui

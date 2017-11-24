@@ -1,0 +1,21 @@
+{
+  "name": "coconut.react-material-ui-example",
+  "version": "2.0.0",
+  "description": "Basic example of integrating with material-ui react components",
+  "main": "index.js",
+  "scripts": {
+    "install": "npm i haxeshim -g && npm i switchx -g && switchx install && npm i lix.pm -g && lix download",
+    "build": "haxe build.hxml && webpack",
+    "webpack": "webpack",
+    "watch": "webpack --watch"
+  },
+  "author": "grosmar",
+  "license": "MIT",
+  "dependencies": {
+    "material-ui": "^1.0.0-beta.21",
+    "material-ui-icons": "^1.0.0-beta.17",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "webpack": "^3.8.1"
+  }
+}

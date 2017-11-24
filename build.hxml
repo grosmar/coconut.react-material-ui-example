@@ -1,0 +1,8 @@
+-lib coconut.react
+-lib react
+-cp src
+
+-main Main
+-js bin/index.js
+
+-dce full
